@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250620075447 +0800">
+<tv date="20250620103531 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -24420,6 +24420,12 @@
 	<programme channel="黑莓动画" start="20250620121300 +0800" stop="20250620134600 +0800">
 		<title lang="zh">蜡笔小新：梦境世界大突击</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250620134600 +0800" stop="20250620151500 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250620151500 +0800" stop="20250620163700 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -24446,6 +24452,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250620124800 +0800" stop="20250620142300 +0800">
 		<title lang="zh">燕赤霞猎妖传</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250620142300 +0800" stop="20250620160000 +0800">
+		<title lang="zh">特种兵归来之绝地营救</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250620160000 +0800" stop="20250620175100 +0800">
+		<title lang="zh">浓情酒乡</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
